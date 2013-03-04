@@ -1,7 +1,7 @@
 # Maintainer: Kristof Jozsa <kjozsa@fsdev.hu>
 
 pkgname=eclipse-scala-ide
-pkgver=2.1.0RC1
+pkgver=3.0RC1
 pkgrel=0
 pkgdesc="Scala IDE for Eclipse"
 arch=('i686' 'x86_64')
